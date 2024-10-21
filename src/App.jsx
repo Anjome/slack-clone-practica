@@ -46,7 +46,7 @@ const canales =[
 
 return (
    <>
-<h1>Hola Mundo</h1>
+<h1>Hola a todo el publico</h1>
 <h1>Canales importantes</h1>
 <ChannelList canales={canales} titulo={'Canales Importantes'}></ChannelList>
 
